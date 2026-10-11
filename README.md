@@ -101,19 +101,9 @@ Run the main script:
 python main.py
 ```
 
-You'll see an interactive menu:
 
-```
-========================================
-PROXY CHECKER
-========================================
-  1. Exit
-  2. Check proxies
-========================================
-Select option: 2
-```
 
-Choose **`2`** and answer a few prompts:
+
 
 ```
 Enter URL: https://www.google.com
