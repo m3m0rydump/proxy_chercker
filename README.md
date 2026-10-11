@@ -249,9 +249,7 @@ Free tier allows ~45 requests per minute per IP. For larger lists, get a token a
 
 ---
 
-## 📄 License
 
-MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
