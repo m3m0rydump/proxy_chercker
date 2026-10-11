@@ -234,8 +234,7 @@ Public proxies are usually dead or heavily rate-limited. Try fewer at a time, in
 **SOCKS proxies fail**
 Make sure you installed SOCKS support: `pip install "requests[socks]"`.
 
-**`ip-api.com` returns `status: fail`**
-Free tier allows ~45 requests per minute per IP. For larger lists, get a token at [ipinfo.io](https://ipinfo.io) or [ipapi.co](https://ipapi.co) and swap the URL in `config.py`.
+
 
 ---
 
