@@ -18,7 +18,6 @@ Built as a small modular project — easy to read, extend, and reuse.
 - ✅ **Clean output** — shows only working proxies (errors are silently skipped)
 - 📊 **Country summary** — groups working proxies by country at the end
 - 🧩 **Modular structure** — separate files for loading, checking, geo lookup, and reporting
-- 🖥️ **Interactive menu** — no CLI arguments to memorize
 
 ---
 
