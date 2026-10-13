@@ -1,8 +1,6 @@
 # 🌐 Proxy Checker
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)]()
+
 
 A fast, multi-threaded Python tool that checks a list of proxies against a target URL.
 Only working proxies are reported, along with their **country**, **ISP**, and **HTTP status**.
